@@ -102,8 +102,8 @@ The application follows a clean architecture with proper separation of concerns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rezapirighadim/bookmark-fetcher
-   cd bookmark-fetcher
+   git clone https://github.com/rezapirighadim/uk-test
+   cd uk-test
    ```
 
 2. Install dependencies:
@@ -157,8 +157,8 @@ For a more convenient setup, use Docker Compose:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rezapirighadim/bookmark-fetcher
-   cd bookmark-fetcher
+   git clone https://github.com/rezapirighadim/uk-test
+   cd uk-test
    ```
 
 2. Create the environment file:
